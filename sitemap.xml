@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://snakestaylow.github.io/mysite/posts/go-test/</loc>
-    <lastmod>2026-10-28T06:30:00+00:00</lastmod>
-  </url><url>
     <loc>https://snakestaylow.github.io/mysite/</loc>
-    <lastmod>2026-10-28T06:30:00+00:00</lastmod>
+    <lastmod>2026-10-28T08:17:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snakestaylow.github.io/mysite/posts/my-new-idea/</loc>
+    <lastmod>2026-10-28T08:17:00+00:00</lastmod>
   </url><url>
     <loc>https://snakestaylow.github.io/mysite/posts/</loc>
+    <lastmod>2026-10-28T08:17:00+00:00</lastmod>
+  </url><url>
+    <loc>https://snakestaylow.github.io/mysite/posts/go-test/</loc>
     <lastmod>2026-10-28T06:30:00+00:00</lastmod>
   </url><url>
     <loc>https://snakestaylow.github.io/mysite/posts/my-first-post/</loc>
